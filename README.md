@@ -58,3 +58,4 @@ The dataset contains:
 ![Home](dashboards/home.png)
 ![Loan Analysis](dashboards/loan.png)
 ![Deposit Analysis](dashboards/deposit.png)
+![Summary](dashboards/Summary.png)
