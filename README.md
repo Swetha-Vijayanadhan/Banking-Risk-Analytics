@@ -56,13 +56,17 @@ The dataset contains:
 ## Dashboard Preview
 
 ### Home
+
 ![Home](dashboards/Home.png)
 
-### Loan Analysis
+## Loan Analysis
+
 ![Loan Analysis](dashboards/Loan Analysis.png)
 
-### Deposit Analysis
+## Deposit Analysis
+
 ![Deposit Analysis](dashboards/Deposit Analysis.png)
 
-### Summary
+## Summary
+
 ![Summary](dashboards/Summary.png)
