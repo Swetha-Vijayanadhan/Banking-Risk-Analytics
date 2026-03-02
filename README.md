@@ -61,11 +61,11 @@ The dataset contains:
 
 ## Loan Analysis
 
-![Loan Analysis](dashboards/Loan Analysis.png)
+![Loan](dashboards/Loan.png)
 
 ## Deposit Analysis
 
-![Deposit Analysis](dashboards/Deposit Analysis.png)
+![Deposit](dashboards/Deposit.png)
 
 ## Summary
 
