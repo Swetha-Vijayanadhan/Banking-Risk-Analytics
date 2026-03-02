@@ -4,13 +4,11 @@
 This project analyses banking data to understand loan risk, customer deposits, and financial exposure. 
 An interactive Power BI dashboard was built to help banks make data-driven lending decisions.
 
----
 
 ## Business Problem
 Banks face financial risk while lending to customers. 
 The objective is to analyse customer financial data and minimise the risk of loan defaults.
 
----
 
 ## Tools Used
 - Power BI
@@ -19,7 +17,6 @@ The objective is to analyse customer financial data and minimise the risk of loa
 - Excel
 - GitHub
 
----
 
 ## Dataset Description
 The dataset contains:
@@ -29,7 +26,6 @@ The dataset contains:
 - Credit card balances
 - Customer engagement data
 
----
 
 ## Key KPIs
 - Total Clients
@@ -41,7 +37,6 @@ The dataset contains:
 - Credit Card Balance
 - Engagement Length
 
----
 
 ## Dashboard Pages
 1. Home Overview
@@ -49,7 +44,7 @@ The dataset contains:
 3. Deposit Analysis
 4. Summary Dashboard
 
----
+
 
 ## Skills Demonstrated
 - Data Cleaning
@@ -57,3 +52,9 @@ The dataset contains:
 - DAX Calculations
 - Data Visualization
 - Business Insight Analysis
+
+## Dashboard Preview
+
+![Home](dashboards/home.png)
+![Loan Analysis](dashboards/loan.png)
+![Deposit Analysis](dashboards/deposit.png)
